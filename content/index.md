@@ -13,5 +13,6 @@ tags:
 ---
 ### [🍀 알고리즘 글 목록](https://mango-note.pages.dev/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 ### [🖥️ 프로젝트 발전 일지 글 목록](https://mango-note.pages.dev/tags/note)
+### [🔍 엘라스틱 서치 프로젝트 글 목록](https://mango-note.pages.dev/ElasticSearch-Project/)
 ---
 🚧🚧이사중입니다~🚧🚧
