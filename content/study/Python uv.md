@@ -177,13 +177,13 @@ rm -rf .venv
 echo "🧹 가상환경(.venv) 삭제 완료"
 ```
 
-#### pip.sh 결과
+### pip.sh 결과
 ![[Pasted image 20250419025902.png]]
 
-#### uv.sh 결과
+### uv.sh 결과
 ![[Pasted image 20250419030035.png]]
 
-#### 의견
+### 의견
 내 환경(macbook m1 pro)에서 생각보다 큰차이가 안나나? 싶지만 그것보다는 준비하는데 시간이 조금 걸렸고, 다운로드 시간에는 더 큰 차이가 났다.
 
 ![[Pasted image 20250419030212.png]]
