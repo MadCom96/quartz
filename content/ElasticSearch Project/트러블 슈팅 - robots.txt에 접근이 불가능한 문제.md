@@ -6,6 +6,7 @@ tags:
   - ElasticSearch
   - certificate
   - python
+  - 트러블슈팅
 date: 2025-04-18
 ---
 ## 개요
