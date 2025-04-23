@@ -1,0 +1,293 @@
+{
+  "id": "37114498-4539-47da-b748-b0be0cddbbfe",
+  "title": "hi",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "hi",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nhi\n\n"
+        }
+      ],
+      "id": "37ae67ef-9b09-490d-bff7-a9efbc26d86c",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "content/study/Python uv.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, how can I help you with your markdown file?\n",
+      "id": "e191750d-94f5-46ef-ba21-62be2dfb8600",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 3458,
+          "completion_tokens": 13,
+          "total_tokens": 3471
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "내 vault전체를 볼 수 있니?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n내 vault전체를 볼 수 있니?\n\n"
+        }
+      ],
+      "id": "f06ab6f0-9710-46ed-bdff-575e2b8ee9f2",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "content/study/Python uv.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "저는 로컬 파일에 접근할 수 없습니다. 현재 열어놓은 파일의 내용만 볼 수 있습니다.\n",
+      "id": "264aed01-908a-4160-a3da-a6a8d88eaca7",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 3483,
+          "completion_tokens": 26,
+          "total_tokens": 3509
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "이래도 못보나?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n이래도 못보나?\n\n"
+        }
+      ],
+      "id": "ad91d9a7-5fb5-4168-9bc3-96d3683767b3",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "content/study/Python uv.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "42bfb17e-a21f-4f41-8d7f-250ffcd9576b",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "내 글 내용 어떤 것 같아?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n내 글 내용 어떤 것 같아?\n\n"
+        }
+      ],
+      "id": "6feb275a-d676-4598-8c0e-80d0cd10c999",
+      "mentionables": []
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "6672ab7b-f738-426d-b057-17587af2aa5c",
+      "metadata": {}
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "안녕",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n안녕\n\n"
+        }
+      ],
+      "id": "b49d47d7-3cdd-46a9-a060-3dd7abf3c9bd",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "content/study/Python uv.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "id": "ed6b3bef-dc8b-492c-891e-aa15bc5b4ad3",
+      "metadata": {}
+    }
+  ],
+  "createdAt": 1745333203102,
+  "updatedAt": 1745333318299,
+  "schemaVersion": 1
+}

@@ -1,0 +1,536 @@
+{
+  "id": "98648f46-c189-4b76-be3e-94561177cb6f",
+  "title": "아년ㅇ",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "아년ㅇ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n아년ㅇ\n\n"
+        }
+      ],
+      "id": "5b490054-bffe-4526-9a02-e2dd1c3c4857",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "content/study/Python uv.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "아니요?",
+      "id": "eb0aa252-1904-4fa6-a57b-58f05fb8e031",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 3460,
+          "completion_tokens": 4,
+          "total_tokens": 3464
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "안녕",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n안녕\n\n"
+        }
+      ],
+      "id": "074fb215-2574-4c8e-a0fd-27326c2e5406",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "content/study/Python uv.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "안녕하세요. 무엇을 도와드릴까요?\n",
+      "id": "dc2ba035-2f0a-46f8-a43d-32376428dc37",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 3468,
+          "completion_tokens": 15,
+          "total_tokens": 3483
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "내 글 내용 어떤 것 같아?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n내 글 내용 어떤 것 같아?\n\n"
+        }
+      ],
+      "id": "b799fef5-32dd-49a3-89fc-cdefac48bfb0",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "content/study/Python uv.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "글의 내용은 uv를 사용한 파이썬 프로젝트 관리 및 환경 설정에 대한 소개와 사용 후기로 구성되어 있습니다. uv의 특징, 설치 방법, 속도, 프로젝트 환경 설정 및 실행 방법 등을 상세하게 설명하고 있으며, 실제 사용 경험을 바탕으로 uv의 장점을 강조하고 있습니다.\n\n전반적으로 uv에 대한 긍정적인 평가를 내리고 있으며, 파이썬 프로젝트 관리에 유용한 도구임을 제시하고 있습니다.",
+      "id": "f25cde4b-4c06-4a37-9bda-8b9d80c3392f",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 3494,
+          "completion_tokens": 118,
+          "total_tokens": 3612
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "uv를 적용하면 부정적인 면도 있을까?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nuv를 적용하면 부정적인 면도 있을까?\n\n"
+        }
+      ],
+      "id": "e18110da-4336-434f-8878-4e48637b350a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "content/study/Python uv.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "uv를 적용했을 때 부정적인 면은 다음과 같습니다.\n\n1.  **새로운 커맨드 학습:** 기존 pip 명령어와 다르기 때문에 새로운 명령어를 익혀야 합니다.\n2.  **초기 설정의 번거로움:** 프로젝트에 적용하기 위해 초기 설정이 필요할 수 있습니다.\n3.  **IDE 호환성 문제:** 새로운 도구이므로 기존 IDE와의 완벽한 호환성을 보장하기 어려울 수 있습니다.\n4.  **장기 프로젝트에는 불필요할 수 있음:** 프로젝트 시작, 환경 설정, 공유 등에 장점이 있지만, 이미 설정이 완료된 장기 프로젝트에는 큰 이점이 없을 수 있습니다.\n5.  **새로운 기술에 대한 학습 곡선:** 팀원들이 uv에 익숙해지는 데 시간이 걸릴 수 있습니다.",
+      "id": "2531b913-e32f-49c1-a935-889d7ecc91ed",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 3629,
+          "completion_tokens": 214,
+          "total_tokens": 3843
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@1. 기술 학습 - ELK.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "1. 기술 학습 - ELK.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/ElasticSearch Project/1. 기술 학습 - ELK.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@0-1. 기술 조사 - ELK.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "0-1. 기술 조사 - ELK.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/ElasticSearch Project/0-1. 기술 조사 - ELK.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@0-2. 기술 조사 - 크롤링.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "0-2. 기술 조사 - 크롤링.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "content/ElasticSearch Project/0-2. 기술 조사 - 크롤링.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "  이 프로젝트를 하면서 uv를 사용할까 해. ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "```content/ElasticSearch Project/1. 기술 학습 - ELK.md\n---\ntitle: 1. 기술 학습 - ELK\ndraft: true\ntags:\n  - project\n  - ElasticSearch\ndate: 2025-04-18\n---\n\n## ELK 스택 실습\n### docker-elk\n우선 방대한 양의 설정을 간단하게 도와주는 레포지토리가 존재한다.\n\n[docker-elk 레포지토리 바로가기](https://github.com/deviantony/docker-elk)\n\n도커 이미지는 공식 사이트로부터 가져와 사용한다고 한다.\n\n당연하지만 도커와 도커컴포즈의 설치가 필요하다.\n\n### 실행 방법\n\nreadme에 있는대로 실행할 수 있을 것 같다. 하지만 몇 번 반복해보니, 학습목적일 때에는 긴 비밀번호 재설정 방법을 그대로 따라갈 필요 없이 `.env`파일을 수정해서 몇 개의 스텝을 건너뛸 수 있다.\n\n1. `.env`파일 비밀번호 수정\n\n<img src=\".ElasticSearch-Project/images/250418193522.png\" />\n\n위와같이 수정해 줄 수 있다. 최소 6자를 안맞추면 setup에 실패하니 두번 일하지 않을 수 있게 하자.\n\n2. setup\n\n```bash\ndocker compose up setup\nWARN[0000] mount of type `volume` should not define `bind` option \n[+] Running 4/4\n ✔ Network docker-elk_elk                Created    0.0s \n ✔ Volume \"docker-elk_elasticsearch\"     Created    0.0s \n ✔ Container docker-elk-elasticsearch-1  Created    0.1s \n ✔ Container docker-elk-setup-1          Created    0.0s \nAttaching to setup-1\nsetup-1  | [+] Waiting for availability of Elasticsearch. This can take several minutes.\nsetup-1  |    ⠿ Elasticsearch is running\nsetup-1  | [+] Waiting for initialization of built-in users\nsetup-1  |    ⠿ Built-in users were initialized\nsetup-1  | [+] Role 'filebeat_writer'\nsetup-1  |    ⠿ Creating/updating\nsetup-1  | [+] Role 'heartbeat_writer'\nsetup-1  |    ⠿ Creating/updating\nsetup-1  | [+] Role 'logstash_writer'\nsetup-1  |    ⠿ Creating/updating\nsetup-1  | [+] Role 'metricbeat_writer'\nsetup-1  |    ⠿ Creating/updating\nsetup-1  | [+] User 'metricbeat_internal'\nsetup-1  |    ⠿ No password defined, skipping\nsetup-1  | [+] User 'logstash_internal'\nsetup-1  |    ⠿ User does not exist, creating\nsetup-1  | [+] User 'filebeat_internal'\nsetup-1  |    ⠿ No password defined, skipping\nsetup-1  | [+] User 'kibana_system'\nsetup-1  |    ⠿ User exists, setting password\nsetup-1  | [+] User 'heartbeat_internal'\nsetup-1  |    ⠿ No password defined, skipping\nsetup-1  | [+] User 'monitoring_internal'\nsetup-1  |    ⠿ No password defined, skipping\nsetup-1  | [+] User 'beats_system'\nsetup-1  |    ⠿ No password defined, skipping\nsetup-1 exited with code 0\n```\n\n시간이 조금 걸리니, 헷갈려서 종료하는 일 없이 `code 0`까지 보도록 하자.\n\n3. docker compose up -d\n\n위의 명령어를 그대로 실행시키자.\n그럼 `id: elastic / pw: 지정한 비밀번호`를 입력해서 `localhost:5601`\n\n<img src=\".ElasticSearch-Project/images/250418194103.png\" />\n\n위와 같은 kibana \b화면을 볼 수 있다.\n\n## TODO\n1. - [ ] 파이썬 소켓. 비동기 vs 동기 정하기\n2. - [ ] 한국 투자 증권 개설후 어떤 데이터 쓸지 정하기. 개발 해보기.\n3. - [ ] 팀 이름 정하기\n```\n```content/ElasticSearch Project/0-1. 기술 조사 - ELK.md\n---\ntitle: 0-1. 기술 조사 - ELK\ndraft: false\ntags:\n  - project\n  - ElasticSearch\n  - Logstash\n  - Kibana\n  - Fluentd\ndate: 2025-04-06\n---\n\n# 기술 조사 - ELK\n## 1. Elastic Search\n### 개요\n- JSON 기반의 분산형 검색 엔진\n\n> Apache Lucene라는 Java 검색 엔진 라이브러리.\n>\n> 하지만 Apache Lucene는 너무 저수준 도구들이라 직접 활용하기 힘듦.\n> \n> 따라서 Lucene을 내부 엔진으로 사용하면서 ***REST API, 분산 처리, 클러스터링, JSON데이터 처리, 대시보드 연동*** 등의 기능을 추가한 고수준 플랫폼\n\n### 작동 원리(간단히)\n1. 데이터 저장\n\t1. Json형식의 문서를 elasticsearch에 전송\n\t2. 내부적으로 단어(토큰)로 쪼갬 -> [[#역색인 구조]]로 저장\n2. 검색할 때\n\t1. 사용자의 검색 키워드 또한 같은 방식으로 쪼갬\n\t2. 역색인을 조회해 해당 키워드를 포함한 문서 ID를 찾아냄\n\n#### 역색인 구조\n단어 -> 문서를 연결해 저장하는 구조\n\nex)\n\n문서 1 : 삼성전자 주가 상승\n\n문서 2 : 애플 주가 하락\n\n```\n\"삼성전자\" -> [문서 1]\n\"주가\" -> [문서 1, 문서 2]\n\"상승\" -> [문서 1]\n\"하락\" -> [문서 2]\n```\n\n- (간단한 예시였지만, 당연히 제목만을 역색인하는 것이 아니다.)\n- 한글은 영어가 아니다. 띄워쓰기 단위로 자르는 것 보다 훨씬 고수준의 \"형태소 분석기\"가 필요하다.\n\t- https://esbook.kimjmin.net/06-text-analysis/6.7-stemming/6.7.2-nori\n\n#### 용어\n\n| 개념                    | 설명                                     |\n| --------------------- | -------------------------------------- |\n| 문서<br>document        | 검색할 데이터 한 건|\n| 인덱스<br>index          | 문서들이 모인 공간<br>DB의 테이블 느낌|\n| 필드<br>field           | 문서 내 데이터 속성<br>title, content, ...|\n| 매핑                    | 각 필드의 데이터 타입 정의<br>text, keyword, data|\n| 역색인<br>inverted index | **텍스트 → 단어 → 문서 ID 연결, 빠른 검색의 핵심**|\n\n\n## 2. Kibana\n### 개요\n- Elasticsearch 데이터를 시각화하고 분석할 수 있게 해주는 대시보드 도구.\n- 사용자는 브라우저에서 Kibana를 통해 데이터를 보고, 검색하고, 그래프로 표현할 수 있다.\n### 역할\n- 📊 대시보드 생성\n- 🔍 데이터 검색/필터링\n- 🧾 로그 탐색\n- ⚙️ 인덱스 관리 (패턴으로 설정 가능)\n\n## 3. Logstash\n### 개요\n- 데이터 수집 및 가공 도구\n- 로그, 이벤트, 메트릭 데이터를 수집하고 처리하고 다른 시스템으로 전송\n\n### 역할\n1. **데이터 수집 (Input)**\n    다양한 소스에서 데이터를 수집 (파일, HTTP, 데이터베이스, 메시지 큐 등)\n    \n2. **데이터 처리 (Filter)**  \n    수집한 데이터를 필터링하고, 형식을 바꾸거나, 새로운 필드를 추가하는 등 가공을 함.\n    \n3. **데이터 전송 (Output)**\n    가공된 데이터를 Elasticsearch나 다른 저장소로 전송함.\n\n## 4. 기타 기술\n### 4-1. Fluentd\n- Fluentd는 다양한 소스로부터 데이터를 수집하고, 원하는 포맷으로 변환하여 목적지로 전달하는 오픈소스 데이터 수집기\n- Logstash와 비슷한 역할을 할 수 있다.\n\n```\n[뉴스 API] → [Fluentd] → [Elasticsearch]\n                           ↘ [파일 저장]\n                           ↘ [MongoDB]\n```\n\n#### 구성 요소\n|구성 요소|설명|\n|---|---|\n|**Input**|데이터를 어디서 수집할지 (예: HTTP, 파일, Kafka 등)|\n|**Filter**|데이터 가공/정제 (필드 제거, 형식 변경 등)|\n|**Output**|데이터를 어디로 보낼지 (예: Elasticsearch, DB, 파일 등)|\n\n#### vs. Logstash\n|항목|**Logstash**|**Fluentd**|\n|---|---|---|\n|소속|Elastic Stack|CNCF (Cloud Native Computing Foundation)|\n|목적|Elasticsearch와 연동 최적화|다양한 목적(ES, DB, Kafka 등) 지원|\n|성능|강력하지만 무겁고 리소스 사용 큼|가볍고 효율적 (특히 Fluent Bit)|\n|확장성|고급 파싱/필터링(grok 등) 강점|다양한 플러그인 생태계|\n|설정 방식|`.conf` (중첩 X, 간단한 구조)|`.conf` 또는 `.yaml` (중첩 구조 지원)|\n|UI|Kibana 등으로 연동 가능|UI 없음 (외부 툴 필요)|\n|학습 난이도|비교적 쉬움|구조 이해 필요, 조금 더 복잡할 수 있음|\n|용도 추천|**Elastic Stack 중심** 시스템|**클라우드/멀티 로그 소스** 통합 관리|\n```\n```content/ElasticSearch Project/0-2. 기술 조사 - 크롤링.md\n---\ntitle: 0-2. 기술 조사 - 크롤링\ndraft: false\ntags:\n  - project\n  - ElasticSearch\n  - 크롤링\n  - JAVA\n  - python\ndate: 2025-04-06\n---\n\n# 기술 조사 - 크롤링\n- 크롤링 프로젝트나 기술에 대한 선행 정보가 거의 없다시피 하다.\n- 고로 이 부분에선 GPT의 힘을 많이 빌릴 것이다.\n\n> 자바 파이썬 중에서 언어 숙련도가 같다면\n> \n> 어떤 언어와 어떤 라이브러리를 크롤링에 사용하는게 좋을까? 라는 질문으로 시작해보자.\n\n## Java + Jsoup\n- 장점\n\t- Jsoup은 HTML 파싱에 최적화되어 있어 정적 웹페이지 크롤링에 매우 빠르고 안정적.\n\t- 자바는 정적 타입 언어라, **대규모 시스템**에 적합\n\t- **멀티스레드 환경에서 많은 요청을 동시에** 보낼 때 효율적\n- 단점\n\t- 자연어 처리, 데이터 시각화 쪽 생태계가 약함\n\t- 자바로 NLP나 기계학습을 하려면 구현비용이 크다.\n\t- SPA에서도 크롤링을 하려면, Selenium과 같은 라이브러리 사용이 필수적이지만, 자바에서는 Selenium의 연동이 조금 어렵다.\n\n## Python + BeautifulSoup / Selenium / Scrapy\n- 장점\n\t- Selenium의 처리가 조금 더 간단한 듯 하다.\n\t- 뉴스 → 텍스트 처리(NLP) → 주식 매핑 → 시각화까지 전체 작업 흐름을 파이썬 하나로 끝낼 수 있음\n\t- 크롤링 결과를 바로 데이터프레임, 시각화 등으로 연결하기 쉬움\n\t- 한국어 NLP (예: `KoNLPy`, `Okt`, `Khaiii`) 도구가 많고 문서도 풍부함\n- 단점\n    - 멀티스레딩 효율은 자바보다 떨어짐 \n\t    - `asyncio`, `aiohttp` 쓰면 개선은 가능하다.\n    - 대규모 크롤링에서는 속도 느릴 수 있음 \n\t    - `Scrapy`로 보완 가능\n\n# 🔧 라이브러리 추천 조합\n## 🐍 Python\n- 크롤링: `requests`, `BeautifulSoup`, `Selenium`, `Scrapy`\n- 자연어 처리: `KoNLPy`, `transformers` (BERT), `Okt`, `SoyNLP`\n- 주식 매핑: `pandas`, 직접 구축한 맵 (예: 키워드 → 종목 코드)\n- 시각화: `matplotlib`, `seaborn`, `plotly`, `streamlit` (웹 기반 대시보드)\n\n## ☕ Java\n- 크롤링: `Jsoup`, `HtmlUnit`, `Selenium` (자바용)\n- NLP: `OpenNLP`, `Stanford NLP` (하지만 설정 어려움)\n- 시각화: 외부 툴 또는 프론트 연동 필요 (직접 그리기 어려움)\n\n# 개인적인 생각.\n## 1. 언어\n> 지금 프로젝트 개발에 있어서는 JAVA만을 사용한 개발 또한 불가능할 것 같지는 않다.\n> \n> 하지만 MSA등의 기술 활용을 통해 요즘은 개발 언어 선택으로부터 조금 더 자유롭지 않나 라고 생각한다.\n> \n> 추후 확장성을 생각하면 크롤링 부분은 파이썬으로 개발하는 것이 맞지 않을까 생각이 든다.\n> \n> (자바를 사용하더라도 러닝커브를 마주할 일이 없다는 점에서의 나름의 장점은 있지 않을까 생각이 든다.)\n\n## 2. 자연어 처리 로직 설정 부분\n> 크롤링 할 때 자연어 처리를 해야한다면, 한글로 데이터를 수집할 것이기에 `Python`사용이 불가피할 것이다.\n> \n> 크롤링은 단순 데이터 수집으로 남겨두고 자연어 처리를 ElasticSearch에 맡긴다면, 크롤러의 언어 선택은 나름 자유로울 것 같다.\n> \n> 하지만...\n> 지금 개발하는 기능과 기술들이 어떤 잠재적 제약사항을 갖고있을지 잘 모르겠다.\n\n## ps.\n> 위의 주식 매핑, 시각화 부분은 ElasticSearch를 통해 데이터가 정제된 다음의 일일것이다.\n> \n> 당장 필요없지만 필요해질까봐 그냥 두었다.\n\n<br>\n\n# 📚라이브러리 상세 개요\n> 원래 알던 내용이 아니라면\n> ***다 읽지말고 아래 표만 보는 게 정신건강에 이로울 듯 하다.***\n\n## 🐍 Python\n### 1. 🥣 BeautifulSoup\n#### ✅ 특징\n- 정적인 HTML 파싱에 최적화된 라이브러리\n- `requests`와 함께 쓰는 게 일반적\n- 매우 가볍고 직관적\n\n#### 👍 장점\n- 설치 간단, 문법 쉬움 (입문자용 크롤링 도구로 최고)\n- HTML 문서를 쉽게 탐색하고 정보 추출 가능\n- 속도가 빠름 (동적 요소만 없을 경우)\n\n#### 👎 단점\n- 자바스크립트로 렌더링되는 **동적 웹사이트**는 처리 불가\n- 복잡한 페이지 구조를 처리하기에는 제한적\n\n#### 💡 사용 예\n- 네이버, 다음처럼 정적 HTML 기반 뉴스 제목, 본문 수집\n\n---\n\n### 2. 🧭 Selenium\n#### ✅ 특징\n- **브라우저를 실제로 띄워서** 사람처럼 동작하는 크롤링 도구\n- 동적 렌더링되는 자바스크립트 사이트 크롤링 가능\n\n#### 👍 장점\n- 로그인, 버튼 클릭, 무한스크롤 등 **동적 웹사이트** 완벽 대응\n- 실제 브라우저 자동화 가능 (스크린샷, 파일 다운로드 등)\n- 테스트 자동화에도 활용 가능\n\n#### 👎 단점\n- 브라우저 실행이라 **속도 느림**, 리소스 많이 사용\n- 대량 크롤링에는 비효율적 (단일 스레드 + 무거움)\n- 설정이 번거로울 수 있음\n\n#### 💡 사용 예\n- 네이버 뉴스 무한스크롤, 구글 뉴스에서 스크롤 내리며 수집\n- 로그인 기반 웹서비스 접근 (예: 증권사 뉴스)\n\n---\n### 3. 🕸️ Scrapy\n#### ✅ 특징\n- **고성능 웹 크롤링 프레임워크**\n- BeautifulSoup보다 빠르고, 구조적이고, 확장성이 높음\n- 비동기 방식으로 대규모 크롤링에 최적화됨\n\n#### 👍 장점\n- 매우 빠름 (비동기 처리 + 내부 최적화)\n- URL 추적 및 크롤링 구조 정의 가능 (재귀 크롤링 등)\n- 파이프라인을 통한 저장, 정제 등 자동화 구조 강력함\n\n#### 👎 단점\n- 학습 난이도 존재 (프레임워크 구조를 이해해야 함)\n- 단순한 작업엔 오히려 오버스펙\n\n#### 💡 사용 예\n- 뉴스 사이트 수천 개 페이지 순회하며 수집\n- 기업 데이터 크롤링 자동화 시스템\n\n---\n### 크롤링 라이브러리\n|항목|**BeautifulSoup**|**Selenium**|**Scrapy**|\n|---|---|---|---|\n|**동적 렌더링 처리**|❌ 불가능|✅ 가능|❌ 기본은 정적 (Selenium 연동 가능)|\n|**속도**|🔼 빠름|🔽 느림|🔝 매우 빠름 (비동기)|\n|**설정 난이도**|🔰 쉬움|⚠️ 보통|🧠 중간 이상|\n|**대량 크롤링**|❌ 제한적|❌ 부적합|✅ 최적화됨|\n|**자동화 작업 (클릭 등)**|❌ 불가|✅ 가능|❌ 기본은 불가|\n|**학습 난이도**|⭐ 매우 쉬움|⭐⭐ 보통|⭐⭐⭐ 중간 이상|\n|**확장성 / 유지보수**|❌ 낮음|⚠️ 보통|✅ 높음|\n\n|상황|추천 도구|\n|---|---|\n|**간단한 뉴스 페이지에서 텍스트만 수집**|`BeautifulSoup` + `requests`|\n|**스크롤, 버튼 등 동적 요소 있는 사이트**|`Selenium`|\n|**수많은 페이지를 자동으로 순회하며 수집**|`Scrapy`|\n|**실시간 자동화 or 브라우저 제어 필요한 경우**|`Selenium`|\n\n### NLP 라이브러리\n|도구|종류|특징|장점|단점|\n|---|---|---|---|---|\n|**KoNLPy**|라이브러리|다양한 한국어 형태소 분석기 모음|다양한 분석기 지원 (Okt, Kkma 등), 쉬운 사용|속도 느림, 최신 모델 부족|\n|**transformers (BERT)**|딥러닝 모델|사전학습된 한국어 BERT 사용 가능|문맥 이해 강력, 정밀한 의미 분석|무겁고 느림, GPU 권장|\n|**Okt** (KoNLPy 포함)|형태소 분석기|트위터 형태소 분석기 기반, 쉬운 사용|명사 추출 간편, 속도 무난|정확도 낮을 때 있음|\n|**SoyNLP**|경량 분석기|비지도 학습 기반, 학습 없이 명사 추출|속도 빠름, 사전 학습 없이 명사 추출 가능|문맥 분석 어려움, 띄어쓰기 한계|\n\n📝 간단 요약:\n- **빠르게 명사만 뽑기** → `Okt`, `SoyNLP`\n- **정확하게 문맥 파악** → `transformers` (BERT)\n- **여러 분석기 테스트해보고 싶다** → `KoNLPy`\n\n---\n\n## ☕ Java\n### 1. 🥣 Jsoup\n- `requests` + `BeautifulSoup` 역할을 한 번에 하는 느낌\n- CSS 셀렉터 기반 파싱 (`doc.select(\"div.title\")`)\n- 속도 매우 빠르고, 자바에서 HTML 다루는 데 가장 자주 사용됨\n\n---\n### 2. 🧪 HtmlUnit\n- 브라우저를 띄우지 않고도 JS 실행을 흉내냄\n- `WebClient`라는 객체를 통해 페이지 로딩\n- 하지만 최신 웹사이트(SPA, React 등)는 렌더링 실패할 수도 있음\n\n---\n### 3. 🧭 Selenium (Java)\n- 실제 `Chrome`, `Firefox` 브라우저를 자동 제어\n- 클릭, 입력, 스크롤 등 사용자 행동 자동화 가능\n- UI 테스트도 가능 (테스트 자동화와 크롤링 겸용 가능)\n\n---\n### 크롤링 라이브러리\n|도구|특징|장점|단점|적합한 용도|\n|---|---|---|---|---|\n|**Jsoup**|HTML 파싱 전용  <br>(정적 페이지 전용)|빠르고 가볍다  <br>문법 간단|자바스크립트 렌더링 불가|정적 웹사이트의 크롤링|\n|**HtmlUnit**|가벼운 **헤드리스 브라우저**  <br>(동적 렌더링 일부 지원)|가볍고 빠름  <br>JS 일부 실행 가능|최신 JS 사이트엔 불완전  <br>디버깅 어려움|간단한 동적 페이지 크롤링|\n|**Selenium (Java)**|실제 브라우저 자동화 도구  <br>동적 페이지 완벽 지원|JS 렌더링 100% 지원  <br>사람처럼 행동 가능|무겁고 느림  <br>설정 복잡|자바스크립트 기반 웹 크롤링  <br>로그인, 버튼 클릭 등 자동화|\n\n|상황|추천 도구|\n|---|---|\n|정적 HTML만 수집|✅ **Jsoup**|\n|JS 약간 있는 간단한 동적 페이지|✅ **HtmlUnit** (성능 우선시)|\n|무한스크롤, 로그인, 클릭 등 복잡한 상호작용|✅ **Selenium (Java)**|\n\n### NLP 라이브러리\n|항목|**OpenNLP**|**Stanford NLP**|\n|---|---|---|\n|🔧 개발사|Apache|Stanford University|\n|🧠 주요 기능|토큰화, 품사 태깅, 문장 분리, 개체명 인식 등|토큰화, 품사 태깅, 구문 분석, 개체명 인식, 감정 분석 등|\n|⚙️ 설정 난이도|비교적 쉬움 (jar만 연결하면 바로 사용 가능)|설정 복잡 (모듈 나뉘고 모델도 별도 다운로드 필요)|\n|🚀 성능|빠르고 가볍다|정밀하고 정확도 높음|\n|🌍 다국어 지원|영어 중심, 한국어 거의 없음|영어 중심, 한국어 약간 실험적 지원|\n|🧱 커스터마이징|쉬운 편 (모델 재학습 가능)|가능하지만 복잡하고 무거움|\n\n|목적|추천 도구|\n|---|---|\n|자바 기반 간단한 NLP 기능만 필요 (영어)|✅ **OpenNLP**|\n|영어 기준으로 정밀한 NLP 분석이 필요|✅ **Stanford NLP**|\n|한국어 중심 NLP가 목적|❌ 둘 다 적합하지 않음 → 🐍 파이썬 BERT나 KoNLPy 추천|\n```\n\n\n@1. 기술 학습 - ELK.md @0-1. 기술 조사 - ELK.md @0-2. 기술 조사 - 크롤링.md  이 프로젝트를 하면서 uv를 사용할까 해. \n\n"
+        }
+      ],
+      "id": "d3e6eb5d-0a24-4f00-a609-4a5f67c32366",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "content/ElasticSearch Project/0-1. 기술 조사 - ELK.md"
+        },
+        {
+          "type": "file",
+          "file": "content/ElasticSearch Project/1. 기술 학습 - ELK.md"
+        },
+        {
+          "type": "file",
+          "file": "content/ElasticSearch Project/0-1. 기술 조사 - ELK.md"
+        },
+        {
+          "type": "file",
+          "file": "content/ElasticSearch Project/0-2. 기술 조사 - 크롤링.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": " 세 개의 파일 내용을 검토한 결과, uv를 이 프로젝트에 적용하는 것은 다음과 같은 장단점을 고려해볼 수 있습니다.\n\n### 장점\n*   **환경 일관성**: ELK 스택과 크롤링 도구들을 위한 가상 환경을 uv로 관리하여 개발 환경의 일관성을 유지할 수 있습니다.\n*   **빠른 의존성 설치**: uv의 빠른 속도를 통해 ELK 스택 운영에 필요한 파이썬 패키지들을 빠르게 설치하고 업데이트할 수 있습니다.\n*   **프로젝트 시작 시간 단축**: 새로운 팀원이 합류하거나 새로운 환경에서 개발을 시작할 때, uv를 통해 빠르게 개발 환경을 설정할 수 있습니다.\n\n### 단점\n*   **학습 비용**: 팀원들이 uv 명령어에 익숙해져야 합니다.\n*   **기존 설정과의 충돌**: 이미 Docker를 사용하여 ELK 스택을 구성한 경우, uv를 도입하는 것이 중복될 수 있습니다.\n*   **크롤링 부분에 한정적인 효과**: 크롤링 개발 환경을 위해 uv를 사용하는 것은 좋지만, ELK 스택 자체는 Docker로 관리하는 것이 더 효율적일 수 있습니다.\n\n### 결론\nuv는 특히 파이썬 크롤링 개발 환경을 설정하고 관리하는 데 유용할 수 있습니다. 하지만 ELK 스택 전체를 uv로 관리하는 것보다는 Docker를 활용하는 것이 더 적합할 수 있습니다. 따라서 uv를 크롤링 부분에 집중적으로 활용하고, ELK 스택은 기존의 Docker 환경을 유지하는 것을 고려해볼 수 있습니다.",
+      "id": "eaa3a2cb-f9a6-4c02-a676-9b46a9d1b9fa",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 8098,
+          "completion_tokens": 399,
+          "total_tokens": 8497
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "uv를 사용하면서 docker를 사용하는 방법은 없는거야?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nuv를 사용하면서 docker를 사용하는 방법은 없는거야?\n\n"
+        }
+      ],
+      "id": "e3951bc8-1089-4cca-93c3-4e03610623ea",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "content/ElasticSearch Project/0-1. 기술 조사 - ELK.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "uv와 Docker를 함께 사용하는 방법은 여러 가지가 있습니다.\n\n1.  **개발 환경 분리**:\n    *   uv는 로컬 개발 환경에서 파이썬 의존성을 관리하고, Docker는 최종 배포 환경을 구성하는 데 사용합니다.\n    *   개발자는 uv를 통해 프로젝트에 필요한 패키지를 설치하고, Dockerfile을 통해 동일한 환경을 컨테이너로 만들어서 배포합니다.\n2.  **Docker 컨테이너 내에서 uv 사용**:\n    *   Docker 컨테이너 내부에 uv를 설치하고, uv를 사용하여 파이썬 의존성을 관리할 수 있습니다.\n    *   Dockerfile에 uv 설치 명령어를 추가하고, `RUN uv pip install ...` 명령어를 사용하여 필요한 패키지를 설치합니다.\n3.  **Docker Compose와 함께 사용**:\n    *   Docker Compose를 사용하여 여러 컨테이너를 함께 실행할 때, 각 컨테이너에서 uv를 사용하여 파이썬 의존성을 관리할 수 있습니다.\n    *   각 서비스의 Dockerfile에 uv 설치 및 패키지 설치 명령어를 포함합니다.\n\n이러한 방법을 통해 uv는 개발 편의성을 높이고, Docker는 안정적인 배포 환경을 제공하는 시너지를 얻을 수 있습니다.",
+      "id": "58cd1bd5-3fe8-427b-ba39-1cfaba2bdd06",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 8514,
+          "completion_tokens": 317,
+          "total_tokens": 8831
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "혹시 이미지 삽입할 때 경로 패턴 파악했어?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n혹시 이미지 삽입할 때 경로 패턴 파악했어?\n\n"
+        }
+      ],
+      "id": "025a9bf7-c193-49af-a72f-66429008dcbf",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "content/ElasticSearch Project/트러블 슈팅 - robots.txt에 접근이 불가능한 문제.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "네, 이미지 삽입 시 사용된 경로 패턴은 다음과 같습니다.\n\n`.ElasticSearch-Project/images/{{이미지 파일명}}`\n\n이 패턴은 현재 Markdown 파일이 위치한 디렉토리의 하위 디렉토리인 `.ElasticSearch-Project/images/` 폴더에 있는 이미지 파일을 참조하는 상대 경로입니다.",
+      "id": "ac36b353-77ff-407d-88cd-4445cd4aac95",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 8135,
+          "completion_tokens": 85,
+          "total_tokens": 8220
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash"
+        }
+      }
+    }
+  ],
+  "createdAt": 1745333335192,
+  "updatedAt": 1745334381009,
+  "schemaVersion": 1
+}
