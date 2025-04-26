@@ -11,7 +11,6 @@ tags:
 개발 일지나 기록할만한 알고리즘 문제풀이 등을 업로드 합니다.
 
 ---
-<img src=".ElasticSearch-Project/images/250418194103.png" />
 ### [🍀 알고리즘 글 목록](.tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 ### [🖥️ 프로젝트 발전 일지 글 목록](.project-note/)
 ### [🔍 엘라스틱 서치 프로젝트 글 목록](.ElasticSearch-Project/)
