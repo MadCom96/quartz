@@ -14,3 +14,4 @@ tags:
 ### [🍀 알고리즘 글 목록](.tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 ### [🖥️ 프로젝트 발전 일지 글 목록](.project-note/)
 ### [🔍 엘라스틱 서치 프로젝트 글 목록](.ElasticSearch-Project/)
+### [📝 study 메인 글 목록](.tags/Main)

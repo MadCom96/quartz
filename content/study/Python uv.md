@@ -4,6 +4,7 @@ draft: false
 tags:
   - python
   - uv
+  - Main
 ---
 
 ## 개요
