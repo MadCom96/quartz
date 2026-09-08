@@ -1,6 +1,7 @@
 ---
 title: Release 브랜치 전략
 draft: false
+created: 2025-07-07
 tags:
   - git
   - release

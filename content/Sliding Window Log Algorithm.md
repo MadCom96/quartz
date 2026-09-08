@@ -1,6 +1,7 @@
 ---
 title: Sliding Window Log Algorithm
 draft: false
+created: 2025-07-08
 tags:
   - API
   - rate-limiting

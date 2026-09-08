@@ -1,6 +1,7 @@
 ---
 title: Git Fast-Forward vs Merge vs Rebase 완벽 정리
 draft: false
+created: 2025-07-07
 tags:
   - git
   - version-control

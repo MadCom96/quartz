@@ -1,6 +1,7 @@
 ---
 title: Git Flow 방식
 draft: false
+created: 2025-07-07
 tags:
   - git
   - version-control

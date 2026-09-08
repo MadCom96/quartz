@@ -1,6 +1,7 @@
 ---
 title: Python uv
 draft: false
+created: 2025-04-19
 tags:
   - python
   - uv

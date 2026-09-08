@@ -1,6 +1,7 @@
 ---
 title: Fixed Window Counter Algorithm
 draft: false
+created: 2025-07-08
 tags:
   - API
   - rate-limiting
